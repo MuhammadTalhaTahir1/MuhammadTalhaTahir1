@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Talha Tahir</h1>
 <h3 align="center">A passionate application developer from Pakistan</h3>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadtalhatahir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadtalhatahir" /> </p>
 
 - 🔭 I’m currently **diving deep into React Native to build amazing mobile apps!**
